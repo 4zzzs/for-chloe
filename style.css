@@ -23,6 +23,10 @@ body {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
     font-size: 52px; /* Set font size for the question */
 }
+#question_1 {
+    font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
+    font-size: 52px; /* Set font size for the question */
+}
 
 #options {
     margin-top: 20px; /* Add space above the options */
