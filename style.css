@@ -23,10 +23,9 @@ body {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
     font-size: 52px; /* Set font size for the question */
 }
-
 #intro {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
-    font-size: 50px; /* Set font size for the question */
+    font-size: 52px; /* Set font size for the question */
 }
 
 #options {
