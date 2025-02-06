@@ -78,5 +78,8 @@ function displayCatHeart() {
     };
 }
 
+function yay(){
+}
 // Display the cat.gif initially
 displayCat();
+yay();
