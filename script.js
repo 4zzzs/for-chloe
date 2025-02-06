@@ -7,7 +7,7 @@ function selectOption(option) {
         // Flash rainbow colors
         flashRainbowColors(function() {
             document.getElementById('question').style.display = 'none';
-            document.getElementById('question_1').style.display = 'none'; // Hide the question
+            document.getElementById('intro').style.display = 'none'; // Hide the question
             displayCatHeart();
              // Display the cat-heart.gif
         });
